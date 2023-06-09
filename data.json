@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nombre": "Punta Cana",
+      "precio": 500000,
+      "img": "https://unsplash.com/es/fotos/AD6rn3vqG7o",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Cartagena + San Andrés",
+      "precio": 300000,
+      "img": "https://unsplash.com/es/fotos/emM21K4tZyw",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Perú ",
+      "precio": 250000,
+      "img": "https://unsplash.com/es/fotos/xsm6EJM1mP4",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Mexico",
+      "precio": 375000,
+      "img": "https://unsplash.com/es/fotos/mzEyEp3syMI",
+      "cantidad": 1
+    }
+]
